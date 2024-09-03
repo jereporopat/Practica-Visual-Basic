@@ -1,0 +1,15 @@
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\bin\Debug\net6.0\Ej26.exe
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\bin\Debug\net6.0\Ej26.deps.json
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\bin\Debug\net6.0\Ej26.runtimeconfig.json
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\bin\Debug\net6.0\Ej26.dll
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\bin\Debug\net6.0\Ej26.pdb
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.vbproj.AssemblyReference.cache
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.AssemblyInfoInputs.cache
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.AssemblyInfo.vb
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.vbproj.CoreCompileInputs.cache
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.dll
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\refint\Ej26.dll
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.pdb
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\Ej26.genruntimeconfig.cache
+D:\Escritorio\Practica Visual Basic\Practica\Ej26\obj\Debug\net6.0\ref\Ej26.dll

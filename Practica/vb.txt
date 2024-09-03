@@ -1,0 +1,10 @@
+Visual Basic
+
+If num1 > num2 Then
+            Console.Write(num1)
+        Else
+            Console.Write(num2)
+End If
+
+<> (distinto)
+mod (resto de una división)  Ej.:  x=13 mod 5  {se guarda 3}

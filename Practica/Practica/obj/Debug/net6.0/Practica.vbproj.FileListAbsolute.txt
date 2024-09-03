@@ -1,0 +1,30 @@
+D:\Escritorio\Practica\Practica\Practica\bin\Debug\net6.0\Practica.exe
+D:\Escritorio\Practica\Practica\Practica\bin\Debug\net6.0\Practica.deps.json
+D:\Escritorio\Practica\Practica\Practica\bin\Debug\net6.0\Practica.runtimeconfig.json
+D:\Escritorio\Practica\Practica\Practica\bin\Debug\net6.0\Practica.dll
+D:\Escritorio\Practica\Practica\Practica\bin\Debug\net6.0\Practica.pdb
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.vbproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.AssemblyInfo.vb
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.vbproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.dll
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\refint\Practica.dll
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.pdb
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\Practica.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica\Practica\obj\Debug\net6.0\ref\Practica.dll
+D:\Escritorio\Practica Visual Basic\Practica\Practica\bin\Debug\net6.0\Practica.exe
+D:\Escritorio\Practica Visual Basic\Practica\Practica\bin\Debug\net6.0\Practica.deps.json
+D:\Escritorio\Practica Visual Basic\Practica\Practica\bin\Debug\net6.0\Practica.runtimeconfig.json
+D:\Escritorio\Practica Visual Basic\Practica\Practica\bin\Debug\net6.0\Practica.dll
+D:\Escritorio\Practica Visual Basic\Practica\Practica\bin\Debug\net6.0\Practica.pdb
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.vbproj.AssemblyReference.cache
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.AssemblyInfoInputs.cache
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.AssemblyInfo.vb
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.vbproj.CoreCompileInputs.cache
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.dll
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\refint\Practica.dll
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.pdb
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\Practica.genruntimeconfig.cache
+D:\Escritorio\Practica Visual Basic\Practica\Practica\obj\Debug\net6.0\ref\Practica.dll
